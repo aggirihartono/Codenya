@@ -11,8 +11,19 @@ Tools yang digunakan:
 
 Halaman Web:
 1. Home
+
+![alt text](https://github.com/aggirihartono/Codenya/blob/master/Web_Home.jpg)
+
 https://github.com/aggirihartono/Codenya/blob/master/Web_Home.jpg
+
 2. Login Page
+
+![alt text](https://github.com/aggirihartono/Codenya/blob/master/Web_Login.jpg)
+
 https://github.com/aggirihartono/Codenya/blob/master/Web_Login.jpg
+
 3.Contact Page
+
+![alt text](https://github.com/aggirihartono/Codenya/blob/master/Web_Contact.jpg)
+
 https://github.com/aggirihartono/Codenya/blob/master/Web_Contact.jpg
