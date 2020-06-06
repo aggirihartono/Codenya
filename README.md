@@ -7,9 +7,9 @@ Tools yang digunakan:
 
 1. Visual Studio Code.
 
-2.Plugin Visual Studio Code Liver server, untuk running hasil coding dari Visual Code ke Halaman browser. 
+2. Plugin Visual Studio Code Liver server, untuk running hasil coding dari Visual Code ke Halaman browser. 
 
-3 Git. 
+3. Git. 
 
 4.Internet. 
 
